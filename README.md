@@ -172,31 +172,7 @@ Summary | Risk Analysis | Chat | Reports
 * Google OAuth
 * Row Level Security (RLS)
 
----
 
-## 📸 Screenshots
-
-### Dashboard
-
-![Dashboard](./screenshots/dashboard.png)
-
-### Document Upload
-
-![Upload](./screenshots/upload.png)
-
-### Legal Analysis
-
-![Analysis](./screenshots/analysis.png)
-
-### RAG Chat
-
-![Chat](./screenshots/chat.png)
-
-### Contract Comparison
-
-![Comparison](./screenshots/comparison.png)
-
----
 
 ## 🔄 AI Workflow
 
