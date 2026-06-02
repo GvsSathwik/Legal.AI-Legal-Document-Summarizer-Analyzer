@@ -1,4 +1,13 @@
-# ⚖️ LegalAI – AI-Powered Legal Document Summarizer & Analyzer
+# ⚖️ Legal.AI – Legal Document Summarizer & Analyzer
+
+<p align="center">
+  <b>AI-Powered Legal Document Intelligence Platform using LLMs, RAG, NLP, and Semantic Search</b>
+</p>
+
+<p align="center">
+  Transform contracts, agreements, and legal documents into actionable insights with AI-powered summarization, risk assessment, clause extraction, and document-based conversational intelligence.
+</p>
+
 
 <p align="center">
   <img src="./screenshots/banner.png" alt="LegalAI Banner" width="100%">
